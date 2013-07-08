@@ -12,6 +12,7 @@ Appends device-specific class names onto the body tag
 == Description ==
 
 Device-specific class names are appended to the body tag using the body_class filter.
+Uses the [MobileDetect](https://github.com/serbanghita/Mobile-Detect) class under the hood.
 
 The following class names are appended if appropriate:
 
